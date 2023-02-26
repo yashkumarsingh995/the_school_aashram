@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/the_school_aashram/static/css/main.fcef642b.css",
+    "main.js": "/the_school_aashram/static/js/main.ccf21cd0.js",
+    "static/css/93.9c14471c.chunk.css": "/the_school_aashram/static/css/93.9c14471c.chunk.css",
+    "static/js/93.9a323db0.chunk.js": "/the_school_aashram/static/js/93.9a323db0.chunk.js",
+    "static/js/787.cda612ba.chunk.js": "/the_school_aashram/static/js/787.cda612ba.chunk.js",
+    "static/js/807.549ad3f9.chunk.js": "/the_school_aashram/static/js/807.549ad3f9.chunk.js",
+    "static/media/SidebarSubmenu": "/the_school_aashram/static/media/SidebarSubmenu.ff65cd0d2bfd0714e0b9",
+    "index.html": "/the_school_aashram/index.html",
+    "main.fcef642b.css.map": "/the_school_aashram/static/css/main.fcef642b.css.map",
+    "main.ccf21cd0.js.map": "/the_school_aashram/static/js/main.ccf21cd0.js.map",
+    "93.9c14471c.chunk.css.map": "/the_school_aashram/static/css/93.9c14471c.chunk.css.map",
+    "93.9a323db0.chunk.js.map": "/the_school_aashram/static/js/93.9a323db0.chunk.js.map",
+    "787.cda612ba.chunk.js.map": "/the_school_aashram/static/js/787.cda612ba.chunk.js.map",
+    "807.549ad3f9.chunk.js.map": "/the_school_aashram/static/js/807.549ad3f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcef642b.css",
+    "static/js/main.ccf21cd0.js"
+  ]
+}
