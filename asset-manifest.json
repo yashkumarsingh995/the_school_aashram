@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/the_school_aashram/static/css/main.fcef642b.css",
-    "main.js": "/the_school_aashram/static/js/main.ccf21cd0.js",
-    "static/css/93.9c14471c.chunk.css": "/the_school_aashram/static/css/93.9c14471c.chunk.css",
-    "static/js/93.9a323db0.chunk.js": "/the_school_aashram/static/js/93.9a323db0.chunk.js",
+    "main.css": "/the_school_aashram/static/css/main.5902fdf6.css",
+    "main.js": "/the_school_aashram/static/js/main.627fad3b.js",
+    "static/css/982.f1820a36.chunk.css": "/the_school_aashram/static/css/982.f1820a36.chunk.css",
+    "static/js/982.f7e6b118.chunk.js": "/the_school_aashram/static/js/982.f7e6b118.chunk.js",
     "static/js/787.cda612ba.chunk.js": "/the_school_aashram/static/js/787.cda612ba.chunk.js",
-    "static/js/807.549ad3f9.chunk.js": "/the_school_aashram/static/js/807.549ad3f9.chunk.js",
+    "static/js/477.2269aa0a.chunk.js": "/the_school_aashram/static/js/477.2269aa0a.chunk.js",
     "static/media/SidebarSubmenu": "/the_school_aashram/static/media/SidebarSubmenu.ff65cd0d2bfd0714e0b9",
     "index.html": "/the_school_aashram/index.html",
-    "main.fcef642b.css.map": "/the_school_aashram/static/css/main.fcef642b.css.map",
-    "main.ccf21cd0.js.map": "/the_school_aashram/static/js/main.ccf21cd0.js.map",
-    "93.9c14471c.chunk.css.map": "/the_school_aashram/static/css/93.9c14471c.chunk.css.map",
-    "93.9a323db0.chunk.js.map": "/the_school_aashram/static/js/93.9a323db0.chunk.js.map",
+    "main.5902fdf6.css.map": "/the_school_aashram/static/css/main.5902fdf6.css.map",
+    "main.627fad3b.js.map": "/the_school_aashram/static/js/main.627fad3b.js.map",
+    "982.f1820a36.chunk.css.map": "/the_school_aashram/static/css/982.f1820a36.chunk.css.map",
+    "982.f7e6b118.chunk.js.map": "/the_school_aashram/static/js/982.f7e6b118.chunk.js.map",
     "787.cda612ba.chunk.js.map": "/the_school_aashram/static/js/787.cda612ba.chunk.js.map",
-    "807.549ad3f9.chunk.js.map": "/the_school_aashram/static/js/807.549ad3f9.chunk.js.map"
+    "477.2269aa0a.chunk.js.map": "/the_school_aashram/static/js/477.2269aa0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcef642b.css",
-    "static/js/main.ccf21cd0.js"
+    "static/css/main.5902fdf6.css",
+    "static/js/main.627fad3b.js"
   ]
 }
